@@ -8,12 +8,6 @@
   </url>
   
   <url>
-    <loc>https://ekaputra.dev/</loc>
-    <lastmod>2019-07-07T19:35:21+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ekaputra.dev/about/</loc>
   </url>
   
@@ -24,6 +18,12 @@
   
   <url>
     <loc>https://ekaputra.dev/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ekaputra.dev/</loc>
+    <lastmod>2019-07-07T19:35:21+10:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;ekaputra/&gt;</title>
+    <title>ekaputra</title>
     <link>https://ekaputra.dev/</link>
-    <description>Recent content on &lt;ekaputra/&gt;</description>
+    <description>Recent content on ekaputra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Jul 2019 19:35:21 +1000</lastBuildDate>
@@ -17,8 +17,8 @@
       <pubDate>Sun, 07 Jul 2019 19:35:21 +1000</pubDate>
       
       <guid>https://ekaputra.dev/projects/</guid>
-      <description> These are some projects that I&amp;rsquo;ve been working-on on my spare time, all of them are open source because we&amp;rsquo;re all love open source software don&amp;rsquo;t we? :)
-Gatra Bali, a news reader app built using Flutter  RQMetric, a log parser CLI built using Golang  Quick SMS, an Android app to create and send predefined SMS  Gempa Monitor, a simple website to monitor earth quake in Indonesia  Django Menuz, a reusable Django app to create drag-and-drop menus for Django based website  </description>
+      <description>These are some projects that I&amp;rsquo;ve been working-on on my spare time, all of them are open source because we&amp;rsquo;re all love open source software don&amp;rsquo;t we?. For a complete list please check my GitHub account.
+Gatra Bali, a news reader app built using Flutter Gatra Bali is a news reader app (for Balinese news only) built using Flutter, initially this app was just a test project to see how is it feel developing mobile app using Flutter and my conclusion is I like it so much :) so I turned it into a production app that can be downloaded here (currently only available on Android).</description>
     </item>
     
     <item>
